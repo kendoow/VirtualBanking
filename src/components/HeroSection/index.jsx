@@ -37,6 +37,11 @@ const HeroSection = () => {
               primary="true"
               dark="true"
               to="signup"
+              smooth={true}
+                  duration={500}
+                  spy={true}
+                  exact="true"
+                  offset={-80}
             >
               Get started {hover ? <ArrowForward /> : <ArrowRight />}
             </Button>
