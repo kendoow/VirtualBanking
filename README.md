@@ -1,6 +1,6 @@
 # VirtualBanking  
 ### stack:  
-#### React 
-#### React-router  
-#### React-scroll  
-#### Styled-components  
+##### React 
+##### React-router  
+##### React-scroll  
+##### Styled-components  
