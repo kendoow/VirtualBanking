@@ -1,6 +1,6 @@
-# VirtualBanking
-stack:
-React /n
-React-router
-React-scroll
-Styled-components
+# VirtualBanking  
+stack:  
+React 
+React-router  
+React-scroll  
+Styled-components  
